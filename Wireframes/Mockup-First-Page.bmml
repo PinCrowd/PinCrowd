@@ -1,0 +1,33 @@
+<mockup version="1.0" skin="sketch" measuredW="963" measuredH="564" mockupW="726" mockupH="562">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="237" y="2" w="726" h="562" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//bowltron.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="243" y="76" w="714" h="460" measuredW="1157" measuredH="834" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./BowlTronBack.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="571" y="449" w="97" h="48" measuredW="57" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>Start</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="562" y="89" w="116" h="37" measuredW="102" measuredH="46" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Lane%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="324" y="145" w="575" h="293" measuredW="3300" measuredH="1680" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./BowlTronTparent.gif</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,117 @@
+<mockup version="1.0" skin="sketch" measuredW="1116" measuredH="563" mockupW="1007" mockupH="562">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="240" y="1" w="726" h="562" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//bowltron.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HelpButton" x="921" y="500" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Canvas" x="259" y="89" w="689" h="434" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16767334</color>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::ProgressBar" x="448" y="485" w="309" h="27" measuredW="100" measuredH="20" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <indeterminate>true</indeterminate>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Label" x="507" y="132" w="-1" h="-1" measuredW="213" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Pick%20your%20bowling%20lane</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::PointyButton" x="772" y="395" w="134" h="-1" measuredW="68" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>Proceed</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::PointyButton" x="293" y="394" w="134" h="-1" measuredW="48" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Label" x="552" y="164" w="-1" h="-1" measuredW="117" measuredH="23" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>13</size>
+        <text>5%20bowlers%20per%20lane</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::ModalScreen" x="277" y="220" w="662" h="87" measuredW="320" measuredH="240" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Button" x="303" y="239" w="46" h="44" measuredW="29" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Button" x="368" y="239" w="46" h="44" measuredW="32" measuredH="28" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Button" x="434" y="239" w="46" h="44" measuredW="31" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Button" x="501" y="239" w="46" h="44" measuredW="31" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Button" x="568" y="239" w="46" h="44" measuredW="31" measuredH="28" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Button" x="633" y="239" w="46" h="44" measuredW="32" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>6</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Button" x="698" y="239" w="46" h="44" measuredW="31" measuredH="28" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>7</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Button" x="761" y="239" w="46" h="44" measuredW="31" measuredH="28" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>8</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Button" x="826" y="239" w="46" h="44" measuredW="31" measuredH="28" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>9</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Button" x="887" y="241" w="46" h="44" measuredW="36" measuredH="28" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>10</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::HorizontalScrollBar" x="557" y="312" w="-1" h="-1" measuredW="100" measuredH="16" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Arrow" x="966" y="220" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text>Slide%20Across%20For%20More%20Lanes</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Alert" x="487" y="203" w="245" h="134" measuredW="200" measuredH="120" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lane%204%0AIs%20this%20correct%3F%0AYes%2C%20No</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::StickyNote" x="109" y="110" w="109" h="167" measuredW="109" measuredH="123" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo%20will%20be%20in%20the%20background%20with%20low%20opacity</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

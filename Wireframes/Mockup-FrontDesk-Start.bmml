@@ -1,0 +1,33 @@
+<mockup version="1.0" skin="sketch" measuredW="966" measuredH="563" mockupW="726" mockupH="562">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="240" y="1" w="726" h="562" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//bowltron.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HelpButton" x="921" y="500" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Canvas" x="259" y="91" w="689" h="434" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16767334</color>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Button" x="538" y="419" w="146" h="72" measuredW="57" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>Start</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Image" x="377" y="146" w="468" h="240" measuredW="3300" measuredH="1680" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./BowlTronTparent.gif</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Image" x="259" y="94" w="689" h="431" measuredW="1157" measuredH="834" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./BowlTronBack.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,60 @@
+<mockup version="1.0" skin="sketch" measuredW="966" measuredH="563" mockupW="857" mockupH="562">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="240" y="1" w="726" h="562" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//bowltron.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HelpButton" x="921" y="500" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Canvas" x="253" y="90" w="689" h="434" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16767334</color>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::NumericStepper" x="566" y="258" w="74" h="-1" measuredW="40" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::ProgressBar" x="448" y="485" w="309" h="27" measuredW="100" measuredH="20" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <indeterminate>true</indeterminate>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Label" x="427" y="185" w="-1" h="-1" measuredW="354" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>How%20many%20bowlers%20are%20in%20your%20group%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::PointyButton" x="772" y="395" w="134" h="-1" measuredW="68" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>Proceed</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::PointyButton" x="293" y="394" w="134" h="-1" measuredW="48" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Label" x="644" y="260" w="-1" h="-1" measuredW="50" measuredH="23" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>13</size>
+        <text>Bowlers</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Label" x="564" y="282" w="-1" h="-1" measuredW="78" measuredH="23" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28Touch%20here%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::StickyNote" x="109" y="110" w="109" h="187" measuredW="109" measuredH="123" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo%20will%20be%20in%20the%20background%20with%20low%20opacity</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
